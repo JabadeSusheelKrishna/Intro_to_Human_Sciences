@@ -71,3 +71,18 @@ Sure, let's break down each part of the information:
 
 **Example**: Imagine you're reading a history book about World War II. A historian who follows historical positivism might present facts about battles, dates, and leaders based on documents, eyewitness accounts, and other evidence. They would strive to present these facts objectively, without bias or speculation. This approach aligns with the idea of history as a science, where evidence is collected and analyzed to understand past events accurately. And readers would passively receive this information, accepting it as true based on the evidence presented.
 
+Certainly, let's delve into the explanation:
+
+1. **What are Historical Facts?**: Historical facts are pieces of information about events, people, places, and other aspects of the past that are supported by evidence. These facts provide the foundation upon which historians construct narratives and interpretations of history.
+
+2. **Are All Facts about the Past Relevant to the Historian?**: Not necessarily. Historians focus on certain facts that are deemed relevant to their research questions or the narratives they are constructing. They may prioritize specific events, figures, or phenomena based on their significance to the broader historical context being studied.
+
+3. **Certain Basic Facts Form the Backbone of History**: Basic facts are fundamental pieces of information that are widely accepted and agreed upon by historians. These facts are essential for understanding and interpreting historical events and developments. For example, in the context of World War II, basic facts might include the dates of key battles, the names of major political leaders, and the outcomes of significant treaties.
+
+4. **Not the Ones with Which the Historian is Primarily Concerned**: Historians may not focus on every single fact about the past. Instead, they select and prioritize facts that are relevant to their research interests and objectives. This means that some facts may be considered less important or less relevant to a particular historical inquiry.
+
+5. **Who Decides What is a Basic Fact of History?**: The determination of what constitutes a basic fact of history is influenced by consensus among historians, scholarly research, and the interpretation of available evidence. Historians engage in debates and discussions to evaluate the significance and reliability of different facts, ultimately shaping the collective understanding of history.
+
+6. **Can a Fact from the Past be Promoted to a Fact of History?**: Yes, it's possible for new evidence or interpretations to emerge that elevate a previously overlooked or disputed fact to the status of a widely accepted historical fact. Historical research is an ongoing process, and our understanding of the past evolves as new evidence comes to light and perspectives change.
+
+**Example**: Consider the discovery of ancient manuscripts that provide new insights into the political structure of a civilization previously known only through archaeological remains. If these manuscripts corroborate existing evidence and offer a clearer understanding of the society's governance system, historians may promote this information to the status of a basic fact of history, enriching our understanding of the past.
