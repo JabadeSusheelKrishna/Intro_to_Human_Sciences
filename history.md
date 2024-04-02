@@ -1,3 +1,5 @@
+# HISTORY
+
 Sure, let's break down the concepts of Auguste Comte and positivist philosophy in simpler terms:
 
 1. **Auguste Comte and Positivist Philosophy**: Auguste Comte was a French philosopher who believed in positivism, which is a way of understanding the world based on observable facts and scientific principles.
@@ -134,3 +136,11 @@ For example, when we learn about World War II, we might focus on leaders like Wi
 However, some argue that this view is too simplistic because it overlooks the broader context and influences that shape events. They say that historians don't just rely on their own knowledge, but also on research and analysis from many sources. Additionally, they point out that people are not isolated individuals, but are part of larger social, cultural, and economic systems that also play a role in shaping history.
 
 For instance, while we may study the life of Martin Luther King Jr. and his impact on civil rights, we also need to understand the broader social movements and historical context of racial discrimination in the United States. So, while individuals play a significant role in history, they are not the only factors at play.
+
+When historians study the objects of their inquiry, they often focus on understanding two main things: the behavior of individuals and the action of social forces.
+
+1. **Behavior of Individuals:** Historians look at how individual people behaved in the past. This includes studying their actions, decisions, beliefs, and interactions with others. For example, a historian might study the actions of political leaders like Abraham Lincoln during the American Civil War, analyzing his decisions and speeches to understand his impact on history.
+
+2. **Action of Social Forces:** Historians also examine the broader social, cultural, economic, and political forces at play in a particular historical period. These social forces shape and influence the behavior of individuals and the course of events. For instance, historians might study how economic factors such as industrialization or social movements such as feminism impacted society during certain time periods.
+
+In summary, historians aim to understand both the actions of individuals and the influence of larger social forces in order to provide a comprehensive understanding of historical events and developments.
