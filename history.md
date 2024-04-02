@@ -120,9 +120,17 @@ The "cult of individualism" is the idea that individuals are important and shoul
 
 One example of the cult of individualism is the artist Michelangelo during the Renaissance. He focused on his own artistic vision and created famous works like the Sistine Chapel ceiling.
 
+
 Another example is in capitalism, where individuals are encouraged to start businesses and pursue their own success, like Steve Jobs founding Apple.
 
 Protestantism also encourages individuals to have a personal relationship with God and take responsibility for their own spiritual beliefs and actions.
 
 Utilitarianism is a theory of morality that advocates actions that foster happiness or pleasure and oppose actions that cause unhappiness or harm. When directed toward making social, economic, or political decisions, a utilitarian philosophy would aim for the betterment of society as a whole.
 
+The discipline of history and the cult of individualism are often seen together in a common sense view of history. This view suggests that history is primarily about individuals and is written by individuals. It emphasizes the actions and achievements of notable people, like leaders or inventors.
+
+For example, when we learn about World War II, we might focus on leaders like Winston Churchill and Adolf Hitler, or inventors like Alan Turing who helped crack codes.
+
+However, some argue that this view is too simplistic because it overlooks the broader context and influences that shape events. They say that historians don't just rely on their own knowledge, but also on research and analysis from many sources. Additionally, they point out that people are not isolated individuals, but are part of larger social, cultural, and economic systems that also play a role in shaping history.
+
+For instance, while we may study the life of Martin Luther King Jr. and his impact on civil rights, we also need to understand the broader social movements and historical context of racial discrimination in the United States. So, while individuals play a significant role in history, they are not the only factors at play.
