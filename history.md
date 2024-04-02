@@ -124,3 +124,5 @@ Another example is in capitalism, where individuals are encouraged to start busi
 
 Protestantism also encourages individuals to have a personal relationship with God and take responsibility for their own spiritual beliefs and actions.
 
+Utilitarianism is a theory of morality that advocates actions that foster happiness or pleasure and oppose actions that cause unhappiness or harm. When directed toward making social, economic, or political decisions, a utilitarian philosophy would aim for the betterment of society as a whole.
+
