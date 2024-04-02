@@ -53,3 +53,21 @@ The Rankian tradition, named after the German historian Leopold von Ranke, revol
 
 In essence, the Rankian tradition introduced a rigorous and systematic approach to studying history, emphasizing the use of primary sources, the importance of objectivity, and the primacy of factual accuracy.
 
+Sure, let's break down each part of the information:
+
+1. **Historical Positivism of 19th Century**: This refers to a way of thinking about history that was common in the 1800s. Positivism is a belief that knowledge comes from observable facts and experiences, rather than speculation or theory.
+
+2. **The Rankian Call: "Wie es eigentlich gewesen"**: This phrase means "how it actually was" in German. It's associated with a historian named Leopold von Ranke, who emphasized the importance of presenting history as accurately as possible, based on evidence.
+
+3. **Claiming History as a Science**: This means treating history as a field of study that follows scientific methods, such as gathering evidence, making observations, and drawing conclusions based on evidence.
+
+4. **Aligned with the British Empiricist Tradition**: This refers to the philosophical tradition in Britain that emphasizes the importance of sensory experience and observation in gaining knowledge. In historical positivism, this means relying on facts and evidence that can be observed or experienced.
+
+5. **Facts are like Sense-Impressions**: This means that historical facts are perceived in a similar way to how we perceive sensory information, like what we see, hear, or touch. In other words, historical facts should be observable and based on evidence.
+
+6. **Their Reception is a Passive Act**: This means that people receive historical facts without actively shaping or influencing them. Instead, they accept facts as they are presented, much like how we might passively receive sensory information without actively changing it.
+
+7. **A Common-Sense View of History**: This refers to an approach to history that seems reasonable and logical based on everyday understanding or common sense. It's about presenting history in a way that seems straightforward and believable to most people.
+
+**Example**: Imagine you're reading a history book about World War II. A historian who follows historical positivism might present facts about battles, dates, and leaders based on documents, eyewitness accounts, and other evidence. They would strive to present these facts objectively, without bias or speculation. This approach aligns with the idea of history as a science, where evidence is collected and analyzed to understand past events accurately. And readers would passively receive this information, accepting it as true based on the evidence presented.
+
